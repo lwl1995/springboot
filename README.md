@@ -1,7 +1,5 @@
 # springboot
 taiji
-# springboot
-taiji
 
 ### springboot上周项目总结
 
