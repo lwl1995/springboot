@@ -1,0 +1,12 @@
+person:
+  name: yuwen
+  age: 15
+  boss: false
+  birth: 2018/12/4
+  maps: {k1: v1,k2: v2}
+  lists: 
+    - java
+    - php  
+  dog: 
+    age: 15
+    name: xiaogou
